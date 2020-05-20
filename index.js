@@ -3,7 +3,10 @@
 
 function myAnimal() {
    const animal="cat";
-  return animal
+   if(animal=="dog"){
+  return animal;
+     
+   }
 }
 
 function yourAnimal() {
