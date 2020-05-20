@@ -10,7 +10,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-   let animal="dog";
+   let animal="cat";
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
