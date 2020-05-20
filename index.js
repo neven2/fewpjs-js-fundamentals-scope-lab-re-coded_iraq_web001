@@ -2,7 +2,7 @@
  
 
 function myAnimal() {
-   let animal="cat";
+   const animal="cat";
   return animal
 }
 
